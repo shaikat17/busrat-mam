@@ -875,7 +875,7 @@ main {
   #PORTFOLIO
 \*-----------------------------------*/
 
-.filter-list { display: none; }
+/* .filter-list { display: none; }
 
 .filter-select-box {
   position: relative;
@@ -1024,7 +1024,7 @@ main {
   color: var(--light-gray-70);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
-}
+} */
 
 
 
@@ -1033,7 +1033,7 @@ main {
 /*-----------------------------------*\
   #BLOG
 \*-----------------------------------*/
-
+/* 
 .blog-posts { margin-bottom: 10px; }
 
 .blog-posts-list {
@@ -1112,7 +1112,7 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
-}
+} */
 
 
 
