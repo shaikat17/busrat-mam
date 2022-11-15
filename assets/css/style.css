@@ -891,6 +891,8 @@ main {
 
 .research .research-interest .content-card {
   margin-top: 10px;
+  color: var(--light-gray);
+  font-weight: var(--fw-300);
 }
 
 .research .research-p {
@@ -928,13 +930,16 @@ main {
 
 .teaching .teaching-p {
   color: var(--white-2);
+  color: var(--light-gray);
+  font-weight: var(--fw-300);
 }
 
 .teaching-table {
   margin-top: 20px;
   vertical-align: middle;
   border-collapse: collapse;
-  color: var(--white-2);
+  color: var(--light-gray);
+  font-weight: var(--fw-300);
 }
 
 .teaching-table th {
