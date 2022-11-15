@@ -924,8 +924,6 @@ main {
   border-radius: 3px;
 } */
 
-
-
 /* Teaching */
 
 .teaching .teaching-p {
@@ -952,6 +950,12 @@ main {
   border-width: 1px;
   border-style: solid;
   text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .teaching-table {
+    font-size: var(--fs-8);
+  }
 }
 
 /**
